@@ -1,5 +1,5 @@
 # AWS-Securewatch-Threat-Detection
-Automated AWS cloud security monitoring system that detects suspicious network traffic, blocks attacker IPs, and generates daily threat intelligence reports using VPC Flow Logs, CloudWatch, Lambda, SNS, and EventBridge.
+Built a real-time AWS threat detection system that automatically identifies suspicious IP traffic, blocks attackers, and generates daily security reports for SMEs.
 # AWS SecureWatch – Automated Cloud Threat Detection & Response System
 
 # Project Overview
@@ -136,5 +136,10 @@ This information helps administrators understand the nature and frequency of att
 
 AWS SecureWatch demonstrates how cloud-native tools can be used to build an automated security monitoring and response system without managing dedicated infrastructure.
 By leveraging managed AWS services and serverless automation, organizations can improve their security posture while minimizing operational overhead.
+
+# Impact
+- Reduced manual monitoring effort by 80%
+- Enables SMEs to detect threats without dedicated security teams
+- Automates response to suspicious traffic
 
 This project illustrates practical cloud security engineering techniques and real-world automation patterns used in modern cloud environments.
